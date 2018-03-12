@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/swidan/CLionProjects/Interpreter/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+strings.h
+-
+string.h
+-
+ctype.h
+-
+regex.h
+-
+

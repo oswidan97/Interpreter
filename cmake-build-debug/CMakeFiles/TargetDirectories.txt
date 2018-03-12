@@ -1,0 +1,3 @@
+/home/swidan/CLionProjects/Interpreter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/swidan/CLionProjects/Interpreter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/swidan/CLionProjects/Interpreter/cmake-build-debug/CMakeFiles/Interpreter.dir
